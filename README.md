@@ -32,7 +32,7 @@ Upload your CV and instantly get a **job-fit score** with actionable insights.
 - **Deep Learning:** [PyTorch](https://pytorch.org/)
 - **NLP & LLMs:** [Hugging Face Transformers](https://huggingface.co/transformers)
 - **Data Handling:** Pandas, Scikit-learn
-- **Web Framework:** (Streamlit / FastAPI / Flask) ← choose depending on your deployment
+- **Web Framework:** (Streamlit / FastAPI)
 - **Environment:** Conda (exported via `environment.yaml`)
 
 ---
