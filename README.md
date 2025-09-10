@@ -43,3 +43,6 @@ Upload your CV and instantly get a **job-fit score** with actionable insights.
    ```bash
    git clone https://github.com/Sandeep20013/ai-job-matcher.git
    cd ai-job-matcher
+   conda env create -f environment.yaml
+   conda activate ai-job-matcher
+   ```
